@@ -22,7 +22,7 @@
   - How to use the command line - Marta Paciorkowska [no slides]
   - Go for beginners: an interactive workshop - Jimmy Byrum [no slides]
 
-### March 5, 2019 - Vipps.no
+### March 5, 2019 - Vipps
 
   - Parsing binary weather data with Go - Nils Larsgård [TODO: slides]
   - Should I use gRPC or REST? - Kim Pettersen [TODO: slides]
