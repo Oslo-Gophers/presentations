@@ -1,5 +1,11 @@
 # Presentations
 
+### December 4, 2019 - Vipps
+
+  - High-level intro to benchmarking and profiling - Håvard Anda Estensen [[slides](https://github.com/estensen/go-perf/blob/master/slides.pdf)]
+  - Navigating Kubernetes CRDs using code generation - Marta Paciorkowska [no slides]
+  - Interfacing with native code - Andreas Dreyer Hysing  [no slides]
+
 ### October 9, 2019 - Sanity.io
 
   - All you need to know about Go's fmtpackage - Kim Pettersen [[slides and code examples](https://github.com/Oslo-Gophers/presentations/blob/master/2019.10/All-you-need-to-know-about-Go's-fmt-package/)]
@@ -16,7 +22,7 @@
   - How to use the command line - Marta Paciorkowska [no slides]
   - Go for beginners: an interactive workshop - Jimmy Byrum [no slides]
 
-### March 5, 2019 - Vipps.no
+### March 5, 2019 - Vipps
 
   - Parsing binary weather data with Go - Nils Larsgård [TODO: slides]
   - Should I use gRPC or REST? - Kim Pettersen [TODO: slides]
